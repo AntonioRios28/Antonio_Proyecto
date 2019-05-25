@@ -99,7 +99,7 @@ p {
 /* Paso 6 Bienvenida */
 
 #welcome {
-  background: url(':/Proyectofinal/imagenes/Rayados.jpg') no-repeat center center/cover;
+  background: url('https://www.noticiali.com/wp-content/uploads/2019/05/15384897.jpg') no-repeat center center/cover;
   height: 600px;
 }
 
@@ -227,7 +227,7 @@ text-align: center;
 /* Testimonos */
 #testimonials {
   height: 600px;
-  background: url(':/Proyectofinal/imagenes/Rayados.jpg') no-repeat center center/cover;
+  background: url('https://www.noticiali.com/wp-content/uploads/2019/05/15384897.jpg') no-repeat center center/cover;
   padding-top: 100px;
 }
 
