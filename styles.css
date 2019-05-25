@@ -99,7 +99,7 @@ p {
 /* Paso 6 Bienvenida */
 
 #welcome {
-  background: url('../imagenes/Rayados.jpg') no-repeat center center/cover;
+  background: url("https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiU2teu6bbiAhVGZN8KHbzKCz0QjRx6BAgBEAU&url=https%3A%2F%2Fwww.laprensalatina.com%2F1-1-el-argentino-sanchez-marca-y-firma-el-titulo-del-monterrey-en-la-concacaf%2F&psig=AOvVaw3BKF5DBoW7U2b1GFZ_9yKP&ust=1558877497976780") no-repeat center center/cover;
   height: 600px;
 }
 
