@@ -227,7 +227,7 @@ text-align: center;
 /* Testimonos */
 #testimonials {
   height: 600px;
-  background: url(':/Proyectofinal/imagenes/Rayados.jpg') no-repeat center center/cover;
+  background: url('../imagenes/Rayados.jpg') no-repeat center center/cover;
   padding-top: 100px;
 }
 
@@ -238,7 +238,7 @@ text-align: center;
 }
 #testimonials1 {
   height: 600px;
-  background: url(':/Proyectofinal/imagenes/fondo2.jpg') no-repeat center center/cover;
+  background: url('../imagenes/fondo2.jpg') no-repeat center center/cover;
   padding-top: 100px;
 }
 
